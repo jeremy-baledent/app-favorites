@@ -1,0 +1,68 @@
+h1{
+	text-align:center;
+	text-shadow: 2px 2px 4px #000000;
+	text-decoration:line-through;
+	
+	
+	
+}
+h2{
+text-decoration:underline;	
+	
+	
+	
+}
+
+.brawlstar{
+margin-left:0;
+margin-top:8%;
+}
+
+.p1{
+	
+position:absolute;
+top:40%;
+left:26%;
+text-shadow: 2px 0px 20px black;
+box-shadow: inset 0px 0px 20px 0px black;
+	
+}
+.p2{
+	
+position:absolute;
+top:85%;
+left:22%;
+text-shadow: 2px 0px 20px black;
+box-shadow: inset 0px 0px 20px 0px black; 
+}
+.waze{
+margin-left:0;
+margin-top:8%;
+}
+.p3{
+	
+position:absolute;
+top:139%;
+left:27%;
+text-shadow: 2px 0px 20px black;
+box-shadow: inset 0px 0px 20px 0px black; 
+}
+.napster{
+margin-left:0;
+margin-top:8%;
+}
+
+
+
+
+
+
+
+
+
+body{
+background-color:#2A9FB3;	
+	
+	
+	
+}

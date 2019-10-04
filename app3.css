@@ -1,0 +1,105 @@
+h1{
+	text-align:center;
+	text-decoration:underline
+	
+	
+	
+	
+}
+h2{
+	text-align:center;
+	text-decoration:line-through;
+	
+}
+.img1{
+	position:absolute;
+	left:1%;
+	top:1%;
+}
+.img2{
+	position:absolute;
+	left:75%;
+	top:1%;
+}
+.p1{
+	text-align:center;
+	font-size:30px;
+	font-weight:bold;
+	position:absolute;
+	left:31%;
+	top:15%;
+	text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+}
+.p2{
+	text-align:center;
+	font-size:30px;
+	font-weight:bold;
+	position:absolute;
+	left:31%;
+	top:25%;
+	text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+}
+.p3{
+	text-align:center;
+	font-size:30px;
+	font-weight:bold;
+	position:absolute;
+	left:31%;
+	top:35%;
+	text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+}
+
+.insta{
+width:20px;
+height:	20px;
+margin-top:200px;
+
+}
+.twitter{
+width:20px;
+height:	20px;
+}
+.fb{
+width:20px;
+height:	20px;
+}
+.lien{
+	text-align:right;
+	
+	
+}
+.gif{
+	position:absolute;
+	left:45%;
+	top:66%;	
+	
+	
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body{
+background-image: url(imgnapster2.jpg);	
+}
+
+
+
+
+
+
+
+
+
